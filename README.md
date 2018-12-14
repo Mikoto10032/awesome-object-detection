@@ -1,6 +1,8 @@
 # object-detection
 
-This is a list of awesome articles about object detection.
+[TOC]
+
+This is a list of awesome articles about object detection. If you want to read the paper according to time, you can refer to [Date](Date.md).
 
 - R-CNN
 - Fast R-CNN
@@ -875,6 +877,78 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 - github: https://github.com/yihui-he/softer-NMS
 
 ## 2018
+
+**Strong-Weak Distribution Alignment for Adaptive Object Detection**
+
+- arXiv: https://arxiv.org/abs/1812.04798
+
+**AutoFocus: Efficient Multi-Scale Inference**
+
+- intro: AutoFocus obtains an **mAP of 47.9%** (68.3% at 50% overlap) on the **COCO test-dev** set while processing **6.4 images per second on a Titan X (Pascal) GPU** 
+- arXiv: https://arxiv.org/abs/1812.01600
+
+**NOTE-RCNN: NOise Tolerant Ensemble RCNN for Semi-Supervised Object Detection**
+
+- intro: Google Could
+- arXiv: https://arxiv.org/abs/1812.00124
+
+**SPLAT: Semantic Pixel-Level Adaptation Transforms for Detection**
+
+- intro: UC Berkeley
+- arXiv: https://arxiv.org/abs/1812.00929
+
+**Grid R-CNN**
+
+- intro: SenseTime
+- arXiv: https://arxiv.org/abs/1811.12030
+
+**Deformable ConvNets v2: More Deformable, Better Results**
+
+- intro: Microsoft Research Asia
+
+- arXiv: https://arxiv.org/abs/1811.11168
+
+**Anchor Box Optimization for Object Detection**
+
+- intro: Microsoft Research
+- arXiv: https://arxiv.org/abs/1812.00469
+
+**Efficient Coarse-to-Fine Non-Local Module for the Detection of Small Objects**
+
+- intro: https://arxiv.org/abs/1811.12152
+
+**NOTE-RCNN: NOise Tolerant Ensemble RCNN for Semi-Supervised Object Detection**
+
+- arXiv: https://arxiv.org/abs/1812.00124
+
+**Learning RoI Transformer for Detecting Oriented Objects in Aerial Images**
+
+- arXiv: https://arxiv.org/abs/1812.00155
+
+**Integrated Object Detection and Tracking with Tracklet-Conditioned Detection**
+
+- intro: Microsoft Research Asia
+- arXiv: https://arxiv.org/abs/1811.11167
+
+**Deep Regionlets: Blended Representation and Deep Learning for Generic Object Detection**
+
+- arXiv: https://arxiv.org/abs/1811.11318
+
+ **Gradient Harmonized Single-stage Detector**
+
+- intro: AAAI 2019
+- arXiv: https://arxiv.org/abs/1811.05181
+
+**CFENet: Object Detection with Comprehensive Feature Enhancement Module**
+
+- intro: ACCV 2018
+- github: https://github.com/qijiezhao/CFENet
+
+**DeRPN: Taking a further step toward more general object detection**
+
+- intro: AAAI 2019
+- arXiv: https://arxiv.org/abs/1811.06700
+- github: https://github.com/HCIILAB/DeRPN
 
 **Hybrid Knowledge Routed Modules for Large-scale Object Detection**
 
